@@ -5,9 +5,9 @@ Local AI lab for running and experimenting with Large Language Models (LLMs) usi
 ## Components
 
 - **Llamafile**: Execution program by Mozilla that acts as the engine and chat interface to run artificial intelligence locally on the computer.
-  - [Source](https://github.com/mozilla-ai/llamafile/releases): Downloaded `llamafile-0.10.5` from Assets.
+  - [Source](https://github.com/mozilla-ai/llamafile/releases): GitHub mozilla-ai/llamafile (Download `llamafile-0.10.5` from Assets).
 - **Model (GGUF)**: AI model stored in the GGUF format, optimized and quantized for efficient local execution with lower memory usage.
-  - Source: Hugging Face (Models, Libraries: GGUF)
+  - [Source](https://huggingface.co/models?library=gguf&sort=trending): Hugging Face (Models, Libraries: GGUF)
   - **What is Unsloth?** Unsloth is a highly specialized framework that makes AI models train and convert significantly faster, with lower memory usage while retaining high accuracy.
 
 ## Download Commands
