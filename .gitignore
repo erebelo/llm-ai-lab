@@ -1,0 +1,9 @@
+# Help / local documentation
+help.txt
+
+# Llamafile executable
+*.exe
+
+# Local LLM models
+models/*
+!models/.gitkeep
